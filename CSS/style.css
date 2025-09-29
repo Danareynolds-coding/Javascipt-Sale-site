@@ -1,0 +1,27 @@
+body{
+    
+    background-color:rgba(124, 241, 241, 0.635);
+}
+
+
+h1{
+    font-family: 'Parisienne', Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    color:rgb(13, 124, 124);
+    text-align:center;
+
+}
+h2{
+    text-align: center;
+    color:rgb(13, 124, 124);
+}
+.furniture{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr, 1fr;
+}
+.saleitem1{
+    background-color:white;
+  
+
+}
